@@ -12,6 +12,8 @@
 ![image](IMG_9430.jpg)
 <img src = "IMG_9430.jpg" width= "120" heigt="120" align＝center/>
 
+安装git 安装了一下午也不成功，很是伤心啊 怎么办怎么办 效率这么低 超级郁闷 然后就心情不好
+
 
 
 
